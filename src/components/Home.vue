@@ -26,7 +26,7 @@
               <Grform
                 redirect="true"
                 cta="ПОЛУЧИТЬ"
-                campaign_token="nlgDi"
+                campaign_token="nu3ch"
               />
             </div>
           </div>
